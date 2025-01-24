@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: C++ | Python | Java | Spring
+  🦄 Linguagens: C++ | Python | Flask
 </p>
 
 <p align="left">
