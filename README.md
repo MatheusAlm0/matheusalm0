@@ -2,15 +2,15 @@
 
 <p align="left"> 
  Olá, me chamo Matheus. 👋<br>
- Graduando em Ciência da Computação, Desenvolvedor Back-end.<br>
+ Graduando em Ciência da Computação.<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: C++ | Python | Flask
+  🦄 Linguagens: Java | Python | Spring Boot
 </p>
 
 <p align="left">
-  💼 Ferramentas: Visual Studio Code | PyCharm | Logisim-Evolution | ArduinoIDE 
+  💼 Ferramentas: VS Code | PyCharm | IntelliJ | Logisim-Evolution  
 </p>
 
 <p align="left">
