@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Java | Python | Spring Boot
+  🦄 Linguagens: Java | C++ | Spring Boot
 </p>
 
 <p align="left">
-  💼 Ferramentas: VS Code | PyCharm | IntelliJ | Logisim-Evolution  
+  💼 Ferramentas: VS Code | IntelliJ | Maven
 </p>
 
 <p align="left">
